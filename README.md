@@ -45,7 +45,7 @@ Risk Manager & Portfolio Monitor
 Learning & Memory Module
 
 
-```mermaid
+
 flowchart TD
     A[Market Data (OHLCV)]
     B[Feature Engine]
