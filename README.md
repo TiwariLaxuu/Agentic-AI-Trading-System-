@@ -16,7 +16,8 @@ Manages risk and capital
 Learns continuously
 
 
-High Level Architecture 
+## Agentic AI Trading System (OHLCV-Only)
+
 Market Data (OHLCV)
         ↓
 Feature Engine
