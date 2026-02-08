@@ -29,7 +29,7 @@ flowchart TD
     G["Learning & Memory Module"]
 
     A --> B --> C --> D --> E --> F --> G
-```mermaid
+
 flowchart TB
     center["LLM Agentic Core"]
 
