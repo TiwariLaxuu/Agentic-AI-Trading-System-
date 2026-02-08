@@ -43,3 +43,16 @@ Risk Manager & Portfolio Monitor
         ↓
         
 Learning & Memory Module
+
+
+```mermaid
+flowchart TD
+    A[Market Data (OHLCV)]
+    B[Feature Engine]
+    C[Market Regime Detector]
+    D[Strategy Selector (Agentic Planner)]
+    E[RL Execution Agent]
+    F[Risk Manager & Portfolio Monitor]
+    G[Learning & Memory Module]
+
+    A --> B --> C --> D --> E --> F --> G
