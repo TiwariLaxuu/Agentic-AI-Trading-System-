@@ -19,21 +19,27 @@ Learns continuously
 ## Agentic AI Trading System (OHLCV-Only)
 
 Market Data (OHLCV)
+        
         ↓
         
 Feature Engine
+        
         ↓
         
 Market Regime Detector
+        
         ↓
         
 Strategy Selector (Agentic Planner)
+        
         ↓
         
 RL Execution Agent
+       
         ↓
         
 Risk Manager & Portfolio Monitor
+       
         ↓
         
 Learning & Memory Module
