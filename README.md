@@ -14,3 +14,19 @@ Uses RL for execution
 Manages risk and capital
 
 Learns continuously
+
+
+High Level Architecture 
+Market Data (OHLCV)
+        ↓
+Feature Engine
+        ↓
+Market Regime Detector
+        ↓
+Strategy Selector (Agentic Planner)
+        ↓
+RL Execution Agent
+        ↓
+Risk Manager & Portfolio Monitor
+        ↓
+Learning & Memory Module
