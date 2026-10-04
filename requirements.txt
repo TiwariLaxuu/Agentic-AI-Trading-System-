@@ -1,0 +1,7 @@
+streamlit>=1.61
+pandas>=2.3
+numpy>=2.2
+plotly>=6.9
+scikit-learn>=1.7
+xgboost>=3.2
+torch>=2.13
